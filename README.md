@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning some Python
+- 📫 You can reach me on https://www.linkedin.com/in/aleksei-korniakov/
 <!--
 **unhate-us/unhate-us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
